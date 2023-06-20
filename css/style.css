@@ -646,8 +646,7 @@ a.active {
 
 #contact {
     padding: 100px 0;
-    /* background: linear-gradient(150deg, #c6d8ff, #ffcbfb, #ffecff) */
-    background: linear-gradient(-120deg, #0f4a81, #b95dce, #fdf8db)
+    background: linear-gradient(150deg, #c6d8ff, #ffcbfb, #ffecff)
 }
 
 #contact-form input,
